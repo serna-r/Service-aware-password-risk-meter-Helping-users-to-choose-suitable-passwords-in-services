@@ -301,10 +301,10 @@ The table below lists the datasets analyzed in our study, grouped by service cat
     </tr>
     <tr>
         <td></td>
+        <td></td>
         <td><strong>Total</strong></td>
         <td>356,651,901</td>
         <td>8.48</td>
-        <td></td>
         <td></td>
         <td></td>
     </tr>
