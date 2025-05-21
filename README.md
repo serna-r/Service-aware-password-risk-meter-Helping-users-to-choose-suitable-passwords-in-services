@@ -40,14 +40,14 @@ The table below lists the datasets analyzed in our study, grouped by service cat
 
 <table>
     <tr>
-        <td>extbf{Category}</td>
-        <td>\textbf{Service}</td>
-        <td>\textbf{Date}</td>
-        <td>\textbf{\# Passwords}</td>
-        <td>\textbf{Mean Length}</td>
-        <td>\textbf{Min Length}</td>
-        <td>\textbf{Mask}</td>
-        <td>\textbf{Mean Score}</td>
+        <td><strong>Category</strong></td>
+        <td><strong>Service</strong></td>
+        <td><strong>Date</strong></td>
+        <td><strong># Passwords</strong></td>
+        <td><strong>Mean Length</strong></td>
+        <td><strong>Min Length</strong></td>
+        <td><strong>Mask</strong></td>
+        <td><strong>Mean Score</strong></td>
     </tr>
     <tr>
         <td>Business</td>
@@ -300,13 +300,13 @@ The table below lists the datasets analyzed in our study, grouped by service cat
         <td>1.61</td>
     </tr>
     <tr>
-        <td>\multicolumn{2}{l|}{}</td>
-        <td>\textbf{Total}</td>
+        <td></td>
+        <td><strong>Total</strong></td>
         <td>356,651,901</td>
         <td>8.48</td>
-        <td>\multicolumn{1}{l}{}</td>
-        <td>\multicolumn{1}{l}{}</td>
-        <td>\multicolumn{1}{l}{}</td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
