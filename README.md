@@ -1,6 +1,8 @@
 # Supplementary Materials for  
 **Service-aware password risk meter – Helping users to choose suitable passwords in services**
 
+![Project logos](BandaLogos_INCIBE_es.png)
+
 **Authors:**  
 Roi Sánchez Serna [[ORCID: 0009-0001-6424-8262]](https://orcid.org/0009-0001-6424-8262)  
 Ana I. González-Tablas [[ORCID: 2222-3333-4444-5555]](https://orcid.org/2222-3333-4444-5555)  
@@ -10,6 +12,7 @@ Jose María de Fuentes [[ORCID: 2222-3333-4444-5555]](https://orcid.org/2222-333
 **Affiliation:**  
 Universidad Carlos III de Madrid  
 Av. de la Universidad, 30, 28911 Leganés, Madrid, Spain  
+**This work was funded by INCIBE (Instituto Nacional de Ciberseguridad de España).**
 
 **Contact:**  
 roisan@uc3m.pa.es, aigonzal@inf.uc3m.es, lgmanzan@inf.uc3m.es, jfuentes@inf.uc3m.es  
@@ -22,10 +25,10 @@ This repository includes supplementary materials for the article:
 **"Service-aware password risk meter – Helping users to choose suitable passwords in services"**  
 (submitted to ARES 2025)
 
+This work was conducted with the support of the Spanish National Cybersecurity Institute (INCIBE).  
 Due to space constraints in the main manuscript, additional figures, tables, and materials are provided here to complement the study and support reproducibility.
 
 ---
-
 ## Approach Overview
 
 The following figure provides a schematic summary of our proposed model. It illustrates how user, password, and service features are integrated to assess risk and generate feedback through the password meter interface.
@@ -316,19 +319,82 @@ The table below lists the datasets analyzed in our study, grouped by service cat
 
 ## Use Cases
 
-This section will include detailed tables describing specific use cases examined to evaluate the behavior of users and the effectiveness of the proposed meter under realistic service conditions.
+The following table summarizes three case studies used to illustrate how our proposed risk model behaves under different service and password conditions. Each row reflects the evaluated parameters: data exposure, service authentication strength, password strength and usage, and the resulting risk score. Bold values indicate parameters varied intentionally to observe their impact on the risk score.
 
-<!-- Placeholder for use case tables -->
-_Use case tables will be added here._
+<table>
+  <thead>
+    <tr>
+      <th>Case Study</th>
+      <th><i>D<sub>EXP</sub>(s<sub>i</sub>)</i><br># collected data</th>
+      <th colspan="3"><i>S<sub>AUTH</sub>(s<sub>i</sub>)</i></th>
+      <th colspan="2"><i>U<sub>AUTH</sub>(pwd<sub>j</sub>)</i></th>
+      <th><i>R(s<sub>i</sub>, pwd<sub>j</sub>)</i></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th><i>P</i></th>
+      <th><i>M<sub>r</sub></i></th>
+      <th><i>f<sub>a</sub></i></th>
+      <th><i>P<sub>STR</sub>(pwd<sub>j</sub>)</i></th>
+      <th><i>P<sub>USE</sub>(pwd<sub>j</sub>)</i></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td><td><b>17</b></td><td>0</td><td>0</td><td>1</td><td>2</td><td>0 (n=1)</td><td>37.78</td>
+    </tr>
+    <tr>
+      <td></td><td><b>8</b></td><td>0</td><td>0</td><td>1</td><td>2</td><td>0 (n=1)</td><td>14.52</td>
+    </tr>
+    <tr>
+      <td></td><td><b>1</b></td><td>0</td><td>0</td><td>1</td><td>2</td><td>0 (n=1)</td><td>3.14</td>
+    </tr>
+    <tr>
+      <td>2</td><td>17</td><td><b>3</b></td><td><b>1</b></td><td><b>0</b></td><td>2</td><td>0 (n=1)</td><td>77.78</td>
+    </tr>
+    <tr>
+      <td></td><td>17</td><td><b>0</b></td><td><b>1</b></td><td><b>0</b></td><td>2</td><td>0 (n=1)</td><td>47.78</td>
+    </tr>
+    <tr>
+      <td></td><td>17</td><td><b>0</b></td><td><b>0</b></td><td><b>1</b></td><td>2</td><td>0 (n=1)</td><td>37.78</td>
+    </tr>
+    <tr>
+      <td>3</td><td>17</td><td>0</td><td>0</td><td>1</td><td><b>1</b></td><td><b>0.5 (n=10)</b></td><td>51.11</td>
+    </tr>
+    <tr>
+      <td></td><td>17</td><td>0</td><td>0</td><td>1</td><td><b>2</b></td><td><b>0.2 (n=3)</b></td><td>39.56</td>
+    </tr>
+    <tr>
+      <td></td><td>17</td><td>0</td><td>0</td><td>1</td><td><b>4</b></td><td><b>0 (n=1)</b></td><td>24.44</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
 ## Survey Questions
 
-This section provides the full text of the user and expert surveys employed in the study. These questionnaires were used to evaluate the usability and perceived value of the password risk meter.
+The following items were used to evaluate the usability, clarity, and potential impact of the proposed password risk meter. The survey aimed to determine whether the tool helps users understand cybersecurity risks, influences their behavior, and is suitable for integration into real-world authentication processes.
 
-<!-- Placeholder for survey questions -->
-_Survey content will be added here._
+<ol>
+  <li><strong>Q1:</strong> <em>Does the risk meter help you understand the risk of a cybercriminal accessing your stored data?</em><br>
+  This question assesses whether the tool effectively conveys security risks.</li>
+
+  <li><strong>Q2:</strong> <em>Do the risk indicators assist you in making informed choices regarding password selection and service usage?</em><br>
+  This item examines whether users find the tool practical for decision-making.</li>
+
+  <li><strong>Q3:</strong> <em>Would you like online services to incorporate this risk meter in the registration process?</em><br>
+  This question evaluates user interest in having such a tool integrated into mainstream authentication systems.</li>
+
+  <li><strong>Q4:</strong> <em>If the overall risk level were high but could be lowered by selecting a stronger, unique password, would you do so?</em><br>
+  This item measures whether users would modify their behavior based on the risk metric’s feedback.</li>
+
+  <li><strong>Q5:</strong> <em>If the overall risk level were high and could not be reduced by changing the password, would you seek alternative services?</em><br>
+  This final question determines whether users would consider switching services to protect their data under high-risk scenarios.</li>
+</ol>
 
 ---
 
