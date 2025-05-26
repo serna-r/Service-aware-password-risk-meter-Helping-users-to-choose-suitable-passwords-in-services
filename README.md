@@ -1,7 +1,7 @@
 # Supplementary Materials for  
 **Service-aware password risk meter – Helping users to choose suitable passwords in services**
 
-![Project logos](BandaLogos_INCIBE_es.png)
+![Project logos](figures/BandaLogos_INCIBE_es.png)
 
 **Authors:**  
 Roi Sánchez Serna [[ORCID: 0009-0001-6424-8262]](https://orcid.org/0009-0001-6424-8262)  
