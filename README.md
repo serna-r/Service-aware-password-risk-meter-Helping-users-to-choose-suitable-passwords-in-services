@@ -1,5 +1,5 @@
-# Supplementary Materials for  
-**Service-aware password risk meter – Helping users to choose suitable passwords in services**
+# Supplementary Materials for:
+# Service-aware password risk meter – Helping users to choose suitable passwords in services
 
 ![Project logos](figures/BandaLogos_INCIBE_es.png)
 
