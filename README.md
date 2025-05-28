@@ -1,4 +1,5 @@
-# Supplementary Materials for: Service-aware password risk meter – Helping users to choose suitable passwords in services
+# Supplementary Materials for paper "Service-aware password risk meter – Helping users to choose suitable passwords in services" 
+**(accepted at ARES 2025)**
 
 ![Project logos](figures/BandaLogos_INCIBE_es.png)
 
