@@ -9,7 +9,8 @@ Jose María de Fuentes [[ORCID: 2222-3333-4444-5555]](https://orcid.org/2222-333
 
 **Affiliation:**  
 Universidad Carlos III de Madrid  
-Av. de la Universidad, 30, 28911 Leganés, Madrid, Spain  
+Av. de la Universidad, 30, 28911 Leganés, Madrid, Spain
+
 **This work was funded by INCIBE (Instituto Nacional de Ciberseguridad de España).**
 ![Project logos](figures/BandaLogos_INCIBE_es.png)
 
@@ -22,7 +23,7 @@ roisan@uc3m.pa.es, aigonzal@inf.uc3m.es, lgmanzan@inf.uc3m.es, jfuentes@inf.uc3m
 
 This repository includes supplementary materials for the article:  
 **"Service-aware password risk meter – Helping users to choose suitable passwords in services"**  
-(submitted to ARES 2025)
+(accepted at ARES 2025)
 
 This work was conducted with the support of the Spanish National Cybersecurity Institute (INCIBE).  
 Due to space constraints in the main manuscript, additional figures, tables, and materials are provided here to complement the study and support reproducibility.
