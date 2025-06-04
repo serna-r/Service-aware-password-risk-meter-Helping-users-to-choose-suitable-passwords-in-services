@@ -28,6 +28,23 @@ This repository includes supplementary materials for the article:
 This work was conducted with the support of the Spanish National Cybersecurity Institute (INCIBE).  
 Due to space constraints in the main manuscript, additional figures, tables, and materials are provided here to complement the study and support reproducibility.
 
+
+The tool developed for this study can be accessed at:  
+[https://github.com/serna-r/risk-meter---V2/tree/only-javascript](https://github.com/serna-r/risk-meter---V2/tree/only-javascript)
+
+---
+
+## Repository Structure
+
+- `figures/` – Contains the images displayed in this README.  
+- `surveys/` – Contains survey results:  
+  - `Rd_matrix.xlsx` – The \( R_d \) matrix used in risk calculations.  
+  - `expert validation/` – Results from expert validation:  
+    - `expert_validation_english.xlsx` – Expert validation in English.  
+    - `expert_validation_spanish.xlsx` – Expert validation in Spanish.  
+  - `user validation/` – Results from user validation:  
+    - `user_validation.xlsx` – User validation results.  
+
 ---
 ## Approach Overview
 
