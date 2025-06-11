@@ -8,14 +8,15 @@ Lorena González Manzano [[ORCID: 1111-2222-3333-4444]](https://orcid.org/1111-2
 Jose María de Fuentes [[ORCID: 2222-3333-4444-5555]](https://orcid.org/2222-3333-4444-5555)  
 
 **Affiliation:**  
-Universidad Carlos III de Madrid  
+Universidad Carlos III de Madrid
+Computer science and engineering dpt
 Av. de la Universidad, 30, 28911 Leganés, Madrid, Spain
 
 **This work was funded by INCIBE (Instituto Nacional de Ciberseguridad de España).**
 ![Project logos](figures/BandaLogos_INCIBE_es.png)
 
 **Contact:**  
-roisan@uc3m.pa.es, aigonzal@inf.uc3m.es, lgmanzan@inf.uc3m.es, jfuentes@inf.uc3m.es  
+roisan@pa.uc3m.es, aigonzal@inf.uc3m.es, lgmanzan@inf.uc3m.es, jfuentes@inf.uc3m.es  
 
 ---
 
