@@ -3,9 +3,9 @@
 
 **Authors:**  
 Roi Sánchez Serna [[ORCID: 0009-0001-6424-8262]](https://orcid.org/0009-0001-6424-8262)  
-Ana I. González-Tablas [[ORCID: 0000-0002-6259-8955]](https://orcid.org/2222-3333-4444-5555)  
-Lorena González Manzano [[ORCID: 0000-0002-3490-621X]](https://orcid.org/1111-2222-3333-4444)  
-Jose María de Fuentes [[0000-0002-4023-3197]](https://orcid.org/2222-3333-4444-5555)
+Ana I. González-Tablas [[ORCID: 0000-0002-6259-8955]](https://orcid.org/0000-0002-6259-8955)  
+Lorena González Manzano [[ORCID: 0000-0002-3490-621X]](https://orcid.org/0000-0002-3490-621X)  
+Jose María de Fuentes [[0000-0002-4023-3197]](https://orcid.org/0000-0002-4023-3197)
 
 **Affiliation:**  
 Universidad Carlos III de Madrid<br>
