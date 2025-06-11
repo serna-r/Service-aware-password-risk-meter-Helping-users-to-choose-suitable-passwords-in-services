@@ -31,7 +31,7 @@ Due to space constraints in the main manuscript, additional figures, tables, and
 
 
 The tool developed for this study can be accessed at:  
-[https://github.com/serna-r/risk-meter---V2/tree/only-javascript](https://github.com/serna-r/risk-meter---V2/tree/only-javascript)
+[https://serna-r.github.io/risk-meter---V2/](https://serna-r.github.io/risk-meter---V2/)
 
 ---
 
