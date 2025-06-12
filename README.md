@@ -16,7 +16,7 @@ Av. de la Universidad, 30, 28911 Leganés, Madrid, Spain<br>
 ![Project logos](figures/BandaLogos_INCIBE_es.png)
 
 **Contact:**  
-roisan@pa.uc3m.es, aigonzal@inf.uc3m.es, lgmanzan@inf.uc3m.es, jfuentes@inf.uc3m.es  
+roisanch@pa.uc3m.es, aigonzal@inf.uc3m.es, lgmanzan@inf.uc3m.es, jfuentes@inf.uc3m.es  
 
 ---
 
@@ -29,6 +29,8 @@ This repository includes supplementary materials for the article:
 This work was conducted with the support of the Spanish National Cybersecurity Institute (INCIBE).  
 Due to space constraints in the main manuscript, additional figures, tables, and materials are provided here to complement the study and support reproducibility.
 
+The extended version of the article can be found at:
+https://hdl.handle.net/10016/47287 <br>
 
 The tool developed for this study can be accessed at:  
 Tool: [https://serna-r.github.io/risk-meter---V2/](https://serna-r.github.io/risk-meter---V2/)<br>
