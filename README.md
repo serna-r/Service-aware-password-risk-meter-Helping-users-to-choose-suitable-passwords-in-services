@@ -29,7 +29,7 @@ This repository includes supplementary materials for the article:
 This work was conducted with the support of the Spanish National Cybersecurity Institute (INCIBE).  
 Due to space constraints in the main manuscript, additional figures, tables, and materials are provided here to complement the study and support reproducibility.
 
-The extended version of the article can be found at:
+The extended version of the article can be found at: <br>
 https://hdl.handle.net/10016/47287 <br>
 
 The tool developed for this study can be accessed at:  
